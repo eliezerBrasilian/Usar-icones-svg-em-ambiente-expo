@@ -17,7 +17,6 @@ Se você prefere usar o react-native em ambiente expo, mas não consegue usar ic
  ``` import { AntDesign } from '@expo/vector-icons' ```
 - Abra seu VisualStudioCode e faça a importação para dentro de seu projeto normalmente
     - [![exibir imagem](https://drive.google.com/file/d/1BkgFQe1vR0Cfq4iQ0OMBwXtHLEITBWgW/view?usp=share_link)](https://drive.google.com/file/d/1BkgFQe1vR0Cfq4iQ0OMBwXtHLEITBWgW/view?usp=share_link)
-- https://drive.google.com/file/d/1BkgFQe1vR0Cfq4iQ0OMBwXtHLEITBWgW/view?usp=share_link
 - E pra renderizar(exibir) seu icone basta copiar o item 2 (Render the component) e colar no seu projeto
     -   [![exibir imagem](https://drive.google.com/file/d/1v5Ce-cm-zD4kURRZzbEk_E1NA9jvvTSU/view?usp=share_link)](https://drive.google.com/file/d/1v5Ce-cm-zD4kURRZzbEk_E1NA9jvvTSU/view?usp=share_link)
 - Veja esse exemplo:
