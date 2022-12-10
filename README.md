@@ -1,28 +1,58 @@
-# Usar-icones-svg-em-ambiente-expo
+## Veja como usar icones svg em ambiente expo
 
-- Passo 1: Você precisa acessar a documentação oficial do expo que contém todos os packs de icones
-  - Link: https://icons.expo.fyi/
-  
-- Passo 2: Escolher seu icone (por exemplo, eu escolhi esse icone de like)
-  - ![image](https://user-images.githubusercontent.com/93846923/206822524-fb0bb1be-f856-40da-bdd1-9520465eca36.png)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-- Passo 3: Na nova página que abrir, copie o primeiro campo, ele é o campo de import
-  - ![image](https://user-images.githubusercontent.com/93846923/206822565-f7c51c1f-f0d6-4145-8fd6-95669ba91f24.png)
-  - Por exemplo: eu copiei: import { AntDesign } from '@expo/vector-icons' 
+Se você prefere usar o react-native em ambiente expo, mas não consegue usar icones siga esse passo a passo e você conseguirá fácil, fácil.
 
-- Passo 4: Entre no seu projeto cole o import que vc copiou
- -![image](https://user-images.githubusercontent.com/93846923/206822634-62154f0f-dd9b-4ffa-882d-fd94272669bd.png)
+- Acesse a seguinte documentação que contém todos os icones do react-native para expo ``(só clicar na imagem abaixo)``
+ [![clique aqui](https://miro.medium.com/max/476/1*GJH5UaZjAV8Ql_vZcmMy-Q.png)](https://icons.expo.fyi/)
 
-##
+## Vamos lá!
 
-- Passo 5: Copie o segundo campo
-  -![image](https://user-images.githubusercontent.com/93846923/206822708-ac311c53-4277-4a6b-9614-a300c6ac2a3f.png)
-    -Por exemplo: eu copiei: <AntDesign name="like2" size={24} color="black" />
+- Escolha seu icone
+- Será aberta uma tela semelhante a essa abaixo
+    - [![exibir imagem](https://drive.google.com/file/d/1e6hJqVkQyYXlQIFfHLWPIQiFjSZQm0kd/view?usp=share_link)](https://drive.google.com/file/d/1e6hJqVkQyYXlQIFfHLWPIQiFjSZQm0kd/view?usp=share_link)
+- Copie o item 1 (Import the icon family)
+    - Por exemplo: 
+ ``` import { AntDesign } from '@expo/vector-icons' ```
+- Abra seu VisualStudioCode e faça a importação para dentro de seu projeto normalmente
+    - [![exibir imagem](https://drive.google.com/file/d/1BkgFQe1vR0Cfq4iQ0OMBwXtHLEITBWgW/view?usp=share_link)](https://drive.google.com/file/d/1BkgFQe1vR0Cfq4iQ0OMBwXtHLEITBWgW/view?usp=share_link)
+- https://drive.google.com/file/d/1BkgFQe1vR0Cfq4iQ0OMBwXtHLEITBWgW/view?usp=share_link
+- E pra renderizar(exibir) seu icone basta copiar o item 2 (Render the component) e colar no seu projeto
+    -   [![exibir imagem](https://drive.google.com/file/d/1v5Ce-cm-zD4kURRZzbEk_E1NA9jvvTSU/view?usp=share_link)](https://drive.google.com/file/d/1v5Ce-cm-zD4kURRZzbEk_E1NA9jvvTSU/view?usp=share_link)
+- Veja esse exemplo:
+    - [![exibir imagem](https://drive.google.com/file/d/17zbWugI6JBUHA_b4GfBPY1kB02sjCPbE/view?usp=share_link)](https://drive.google.com/file/d/17zbWugI6JBUHA_b4GfBPY1kB02sjCPbE/view?usp=share_link)   
+ # Quem sou eu
 
-- Passo 6: Cole no seu projeto
-  -![image](https://user-images.githubusercontent.com/93846923/206822764-956e1ebe-efc9-43e9-bd3e-1e2a44648215.png)
+> Sou desenvolvedor mobilee utilizo react-native 
+> se essa documentação for útil pra você, venha se conectar comigo no LinekdIn
+> também aceito indicação de vagas de emprego na carreira mobile
+>Meu LinkedlIn: https://www.linkedin.com/in/eliezerbrasilian/
 
-- Já está funcionando, olhe só o icone de like abaixo !
-  -![image](https://user-images.githubusercontent.com/93846923/206822812-e0e60b8e-1695-47f3-b477-b5258235ec1c.png)
+> Note: `Por favor dê-me os créditos ao compartilhar esse post!!`
 
+
+## License
+
+Eliezer Assunção de Paulo
+Contato: (32)99800-8182
+Email: eliezer.paulo@ufv.br
+
+**codinome: eliezerBrasilian!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+    [Meu LinkedIn]: <https://www.linkedin.com/in/eliezerbrasilian//>
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
 
