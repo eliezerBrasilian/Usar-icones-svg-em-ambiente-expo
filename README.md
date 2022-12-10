@@ -4,7 +4,7 @@
 
 Se você prefere usar o react-native em ambiente expo, mas não consegue usar icones siga esse passo a passo e você conseguirá fácil, fácil.
 
-- Acesse a seguinte documentação que contém todos os icones do react-native para expo ``(só clicar na imagem abaixo)``
+- Acesse a seguinte documentação que contém todos os icones do react-native para expo ``(só clicar na imagem)``
  [![clique aqui](https://miro.medium.com/max/476/1*GJH5UaZjAV8Ql_vZcmMy-Q.png)](https://icons.expo.fyi/)
 
 ## Vamos lá!
