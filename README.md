@@ -1,0 +1,1 @@
+# Usar-icones-svg-em-ambiente-expo
