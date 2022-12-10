@@ -4,11 +4,11 @@
   - Link: https://icons.expo.fyi/
   
 - Passo 2: Escolher seu icone (por exemplo, eu escolhi esse icone de like)
-  -![image](https://user-images.githubusercontent.com/93846923/206822524-fb0bb1be-f856-40da-bdd1-9520465eca36.png)
+  - ![image](https://user-images.githubusercontent.com/93846923/206822524-fb0bb1be-f856-40da-bdd1-9520465eca36.png)
 
 - Passo 3: Na nova página que abrir, copie o primeiro campo, ele é o campo de import
-  -![image](https://user-images.githubusercontent.com/93846923/206822565-f7c51c1f-f0d6-4145-8fd6-95669ba91f24.png)
-  - Por exemplo: eu copiei: import { AntDesign } from '@expo/vector-icons'; 
+  - ![image](https://user-images.githubusercontent.com/93846923/206822565-f7c51c1f-f0d6-4145-8fd6-95669ba91f24.png)
+  - Por exemplo: eu copiei: import { AntDesign } from '@expo/vector-icons' 
 
 - Passo 4: Entre no seu projeto cole o import que vc copiou
  -![image](https://user-images.githubusercontent.com/93846923/206822634-62154f0f-dd9b-4ffa-882d-fd94272669bd.png)
