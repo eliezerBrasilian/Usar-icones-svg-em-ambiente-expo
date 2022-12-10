@@ -10,8 +10,10 @@
   -![image](https://user-images.githubusercontent.com/93846923/206822565-f7c51c1f-f0d6-4145-8fd6-95669ba91f24.png)
   - Por exemplo: eu copiei: import { AntDesign } from '@expo/vector-icons'; 
 
-- Passo 4: Entre no seu projeto e importe a biblioteca
+- Passo 4: Entre no seu projeto cole o import que vc copiou
  -![image](https://user-images.githubusercontent.com/93846923/206822634-62154f0f-dd9b-4ffa-882d-fd94272669bd.png)
+
+
 
 - Passo 5: Copie o segundo campo
   -![image](https://user-images.githubusercontent.com/93846923/206822708-ac311c53-4277-4a6b-9614-a300c6ac2a3f.png)
