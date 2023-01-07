@@ -23,10 +23,10 @@ Se você prefere usar o react-native em ambiente expo, mas não consegue usar ic
     - [![exibir imagem](https://drive.google.com/file/d/17zbWugI6JBUHA_b4GfBPY1kB02sjCPbE/view?usp=share_link)](https://drive.google.com/file/d/17zbWugI6JBUHA_b4GfBPY1kB02sjCPbE/view?usp=share_link)   
  # Quem sou eu
 
-> Sou desenvolvedor mobilee utilizo react-native 
+> Sou desenvolvedor mobile utilizo react-native 
 > se essa documentação for útil pra você, venha se conectar comigo no LinekdIn
 > também aceito indicação de vagas de emprego na carreira mobile
->Meu LinkedlIn: https://www.linkedin.com/in/eliezerbrasilian/
+>Meu LinkedIn: https://www.linkedin.com/in/eliezerbrasilian/
 
 > Note: `Por favor dê-me os créditos ao compartilhar esse post!!`
 
